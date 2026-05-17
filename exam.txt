@@ -1,8 +1,9 @@
-Course Code: CSE320
-Course Title: Data Communications
-Exam Duration: 1 hour and 20 minutes
-Section: 01
-Exam starts at 2 PM
+Course Code: 
+Course Title: 
+Exam Duration:
+Section: 
+Semester: 
+Exam starts at [] PM
 
 
 Instructions
